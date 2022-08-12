@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConv</string>
+    <string-array name="prop">
+        <item>Temperature</item>
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Speed</item>
+    </string-array>
+</resources>
